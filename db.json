@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "id": "2",
-      "name": "Jane Doe",
-      "email": "jane@example.com"
+      "name": "asd",
+      "email": "qw",
+      "id": "2"
     },
     {
       "id": "fa91",
@@ -14,6 +14,96 @@
       "id": "c305",
       "name": "hh",
       "email": "kazungu@example.com"
+    },
+    {
+      "id": "5810",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "828c",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "85b3",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "c86f",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "6aac",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "ba38",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "ed4d",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "04ab",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "50fd",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "2518",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "397e",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "0d64",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "079c",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "f5de",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
+    },
+    {
+      "id": "9ba4",
+      "email": "dev@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "7f49",
+      "email": "dev@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "cb23",
+      "email": "dev@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "401d",
+      "email": "user1@gmail.com",
+      "password": "Password@123"
     }
   ]
 }

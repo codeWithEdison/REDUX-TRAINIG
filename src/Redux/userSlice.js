@@ -106,7 +106,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
 
 export const updateUser2 = createAsyncThunk("/user/update", async (user) => {
-  const res = await axios.put("http://localhost:5000/users/1", user);
+  const res = await axios.put("http://localhost:5000/users/2", user); 
   return res.data;
 });
 
